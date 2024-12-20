@@ -1,0 +1,9 @@
+h1, h2 {
+    font-size: 24px;
+}
+.section {
+    background-color: lightblue;
+}
+#special {
+    border: 2px solid red;
+}

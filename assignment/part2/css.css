@@ -1,0 +1,12 @@
+body {
+    background-color: lightyellow;
+}
+.styled-link {
+    color: blue;
+    text-decoration: none;
+}
+
+.styled-link:hover {
+    color: red;
+    text-decoration: underline;
+}

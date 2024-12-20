@@ -1,0 +1,22 @@
+.card {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+}
+.card h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.card p {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #555;
+}
+body {
+    background-color: #fafafa;
+}
